@@ -1,0 +1,38 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Ad-Blocker",
+            "id": "kacljcbejojnapnmiifgckbafkojcncf",
+            "version": "1.5",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Speed Test",
+            "id": "aeghledigokaedmpimgnfplidhdhlchg",
+            "version": "2.6",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Grammarly for Chrome",
+            "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+            "version": "14.934.0",
+            "enabled": true
+}
+    ],
+    "Extension Settings": []
+}

@@ -1,0 +1,24 @@
+{ "pages": 
+[
+  {
+    "DateTime": "2019-11-01T16:32:58+00:00",
+    "DeviceId": "",
+    "AccuracyRadius": 67.0,
+    "ActivityType": null,
+    "AddressLine1": null,
+    "AddressLine2": null,
+    "AddressLine3": null,
+    "CountryRegion": null,
+    "FormattedAddress": null,
+    "Locality": null,
+    "PostalCode": null,
+    "DeviceType": "Unknown",
+    "Distance": 0,
+    "EndDateTime": null,
+    "Latitude": 37.6119642129887,
+    "Longitude": -77.6220944546195,
+    "Name": "",
+    "Url": ""
+  }
+]
+}

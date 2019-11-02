@@ -1,0 +1,172 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zs",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Codebender App",
+                        "id": "magknjdfniglanojbpadmpjlglepnlko",
+                        "version": "1.0.0.11",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "translate_whitelists",
+            "value": "{}"
+},
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.cache",
+            "value": "false"
+},
+        {
+            "name": "browser.clear_data.cookies",
+            "value": "false"
+},
+        {
+            "name": "ios.speechinput.voicesearch_locale",
+            "value": "\"\""
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"en\""
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "26"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "profile.name",
+            "value": "\"Person 1\""
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{}"
+},
+        {
+            "name": "autofill.last_version_disused_addresses_deleted",
+            "value": "70"
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "true"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"es\":true}"
+},
+        {
+            "name": "history.menu_promo_shown",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{\"http://catalogs.lionel.com:80,*\":{\"last_modified\":\"13195424935706345\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://geometrydashfree.com:80,*\":{\"last_modified\":\"13200935942111550\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://parkingmania.mobirate.com:80,*\":{\"last_modified\":\"13195583292910620\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://wsh.gamib.com:80,*\":{\"last_modified\":\"13185050076706714\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.agame.com:80,*\":{\"last_modified\":\"13188940301488220\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.crazygames.com:80,*\":{\"last_modified\":\"13188940353913251\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.engineering.com:80,*\":{\"last_modified\":\"13182884411392349\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.freepong.org:80,*\":{\"last_modified\":\"13198777543842991\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.friv.com:80,*\":{\"last_modified\":\"13185050018288986\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.friv.plus:80,*\":{\"last_modified\":\"13188856395583792\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.prehackshub.com:80,*\":{\"last_modified\":\"13203115046679882\",\"setting\":{\"flashPreviouslyChanged\":true}},\"http://www.theworlds-hardestgame.com:80,*\":{\"last_modified\":\"13188497327202891\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://madalinstuntcars2.com:443,*\":{\"last_modified\":\"13184866915897237\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://parkingmania2.us:443,*\":{\"last_modified\":\"13188856274184647\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://sites.google.com:443,*\":{\"last_modified\":\"13204387615437241\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.coolmathgames.com:443,*\":{\"last_modified\":\"13188856200314054\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.drifted.com:443,*\":{\"last_modified\":\"13203459327979401\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.freeonlinegames.com:443,*\":{\"last_modified\":\"13188934048926270\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.globalspec.com:443,*\":{\"last_modified\":\"13187903435008352\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.lionelsupport.com:443,*\":{\"last_modified\":\"13195863033843461\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.mjcmipy.com:443,*\":{\"last_modified\":\"13205339323399773\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.mysteinbach.ca:443,*\":{\"last_modified\":\"13198694806782751\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.parkinggames.com:443,*\":{\"last_modified\":\"13189105579156480\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.primarysite-kidszone.co.uk:443,*\":{\"last_modified\":\"13188574063231346\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.sites.google.com:443,*\":{\"last_modified\":\"13184866995152016\",\"setting\":{\"flashPreviouslyChanged\":true}},\"https://www.topspeed.com:443,*\":{\"last_modified\":\"13184186256051753\",\"setting\":{\"flashPreviouslyChanged\":true}}}"
+},
+        {
+            "name": "net.easter_egg_high_score",
+            "value": "119250"
+},
+        {
+            "name": "custom_links.list",
+            "value": "[{\"isMostVisited\":false,\"title\":\"The Steward School Mail\",\"url\":\"https://gmail.com/\"}]"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"de\":2,\"es\":2,\"fr\":2,\"it\":2,\"nl\":1,\"pt\":0}"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"de\":0,\"es\":1,\"fr\":0,\"it\":0,\"nl\":0,\"pt\":2}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13214268697233977\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg1zKoHm/TPlxoTGqrFFEnztybz190LjzgwCkosqH7JXihRANCAARHWOk9FHOcIuzdt3KTt443sQlWwIajXUfiNC3CPa/O5wjaBt/dA4GPf/3mPCmBjqYUpVj8jZ4+8ccXNXUaqMSw\"}"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"https://discordapp.com:443,*\":{\"last_modified\":\"13216219121908789\",\"setting\":1},\"https://www.blackmagicdesign.com:443,*\":{\"last_modified\":\"13181266133050908\",\"setting\":1},\"https://www.ticalc.org:443,*\":{\"last_modified\":\"13200767231597017\",\"setting\":1}}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"de\":0,\"es\":0,\"fr\":0,\"it\":0,\"nl\":0,\"pt\":2}"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"cpSk8P8NIkZCMQO3ZLULtA\u003d\u003d\":{\"device_auth_secret\":\"xdHRXRdeilWl6YBRLZp1Mw\u003d\u003d\",\"device_capabilities\":0,\"device_fcm_token\":\"fyZa_jsp6uw:APA91bFqvUl4wdbi9h903FHz2V_v6FoH8CgsQpYLzl7iUVzDPeg3ROsc7IzT-HFFMrZgW39PWnvu06MNH9S1o-cs1_6VFQjAMuJLQv8Ny1_e00K6NVH5B7jUpVKWVmf-lSXdCa3pUHNu\",\"device_last_updated\":\"13216758051736463\",\"device_p256dh\":\"BBurafu0C0czVQ/0wv9TGr88nQ44RhRr+TRRSuRTPiZ9Jjiz3NjPD4TzCs50imzO56hLMFf8qqcNEAAgWh73/b0\u003d\"}}"
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"kacljcbejojnapnmiifgckbafkojcncf\",\"aeghledigokaedmpimgnfplidhdhlchg\",\"kbfnbcaeplbcioakkpcpgfkobkghlhen\"]"
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "1"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ],
+    "Managed Users": []
+}

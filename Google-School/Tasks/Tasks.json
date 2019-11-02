@@ -1,0 +1,18 @@
+{
+  "kind": "tasks#taskLists",
+  "items": [{
+    "kind": "tasks#tasks",
+    "id": "MTM2NzMxNjczNjU3NTk4MjA0OTg6MDow",
+    "title": "Jacqueline Reed\u0027s list",
+    "updated": "2019-06-17T15:50:36.953870Z",
+    "items": [{
+      "kind": "tasks#task",
+      "id": "MTM2NzMxNjczNjU3NTk4MjA0OTg6MDoxNzI1NjUzNjI4",
+      "title": "",
+      "updated": "2019-06-17T15:50:36.953870Z",
+      "selfLink": "https://www.googleapis.com/tasks/v1/lists/MTM2NzMxNjczNjU3NTk4MjA0OTg6MDow/tasks/MTM2NzMxNjczNjU3NTk4MjA0OTg6MDoxNzI1NjUzNjI4",
+      "status": "needsAction"
+    }],
+    "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MTM2NzMxNjczNjU3NTk4MjA0OTg6MDow"
+  }]
+}
